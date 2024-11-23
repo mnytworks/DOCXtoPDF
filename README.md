@@ -164,12 +164,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## Contact
-For questions or support:
-- **Developer:** Prabhmehar
-- **Email:** prabhmehar2509@gmail.com
-- **Docker Hub:** [prabhmeharbedi](https://hub.docker.com/r/prabhmeharbedi/docx-to-pdf)
-
---- 
 
 Feel free to share suggestions or report issues via GitHub!
